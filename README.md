@@ -1,3 +1,5 @@
+[LIVE](https://eireen.space/polymedia-js-assignment/)
+
 ### Тестовое задание
 
 В файле `visiologyBrowsers.js` находится переменная `w`, содержащая структуру данных
