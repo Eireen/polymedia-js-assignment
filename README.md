@@ -1,4 +1,4 @@
-[LIVE](https://eireen.space/polymedia-js-assignment/)
+[**LIVE**](https://eireen.space/polymedia-js-assignment/)
 
 ### Тестовое задание
 
